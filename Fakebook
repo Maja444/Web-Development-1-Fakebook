@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+        <html>
+<head>
+    <title>Maja Slijepčević-Fakebook</title>
+</head>
+    <body>
+    <h1>FAKEBOOK</h1>
+    <form action="/index.html" method="post">
+        <label for=>Username</label>
+        <input type="text" name="search" value="search by username">
+    </form>
+
+    <h2><strong>Maja Slijepčević</strong></h2>
+
+     <button>Add a friend</button>
+
+    <p><strong>Age:</strong> 29</p>
+     <p><strong>Education:</strong> Graduated from X University</p>
+    <p><strong>City:</strong> Zagreb</p>
+     <p><strong>Friends:</strong> 42</p>
+    </body>
+        </html>
